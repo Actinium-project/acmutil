@@ -1,7 +1,7 @@
 module github.com/Actinium-project/acmutil
 
 require (
-	github.com/Actinium-project/acmd v0.0.23
+	github.com/Actinium-project/acmd v0.0.25
 	github.com/aead/siphash v1.0.1
 	github.com/btcsuite/golangcrypto v0.0.0-20150304025918-53f62d9b43e8
 	github.com/davecgh/go-spew v0.0.0-20171005155431-ecdeabc65495
