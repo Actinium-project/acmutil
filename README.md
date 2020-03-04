@@ -1,12 +1,4 @@
 acmutil
-=======
-
-[![Build Status](http://img.shields.io/travis/Actinium-project/acmutil.svg)](https://travis-ci.org/Actinium-project/acmutil) 
-[![Coverage Status](http://img.shields.io/coveralls/Actinium-project/acmutil.svg)](https://coveralls.io/r/Actinium-project/acmutil?branch=master) 
-[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/Actinium-project/acmutil)
-
-Package acmutil provides litecoin-specific convenience functions and types.
 A comprehensive suite of tests is provided to ensure proper functionality.  See
 `test_coverage.txt` for the gocov coverage report.  Alternatively, if you are
 running a POSIX OS, you can run the `cov_report.sh` script for a real-time
